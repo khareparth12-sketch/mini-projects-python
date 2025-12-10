@@ -15,3 +15,5 @@
 ## Project 7: Madlibs Generator
 
 ## Project 8: Timed Maths Challenge
+
+## Project 9: Slot Machine
