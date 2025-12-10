@@ -1,2 +1,18 @@
-/.mp3
-/.key
+# Ignore audio files everywhere
+*.mp3
+
+# Ignore Keynote files everywhere
+*.key
+
+# General junk
+*.log
+.DS_Store
+
+# Python leftovers (if you have any Python projects)
+__pycache__/
+*.py[cod]
+venv/
+
+# Node leftovers (if any project uses JS/Node)
+node_modules/
+dist/
