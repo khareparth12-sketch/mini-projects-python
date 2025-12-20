@@ -10,6 +10,7 @@ This repository is designed as a **clean learning archive**, showcasing hands-on
 
 Each project lives in its own folder and is completely independent.
 
+```
 mini-projects-python/
 │
 ├── 01-quiz-game/
@@ -32,7 +33,7 @@ mini-projects-python/
 ├── 18-auto-file-backup/
 │
 └── README.md
-
+```
 
 - Folder names are **numbered** to reflect learning progression  
 - Python files inside each folder are named based on functionality  
