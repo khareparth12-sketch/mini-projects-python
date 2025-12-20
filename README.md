@@ -17,3 +17,21 @@
 ## Project 8: Timed Maths Challenge
 
 ## Project 9: Slot Machine
+
+## Project 10: Turtle Racing Game
+
+## Project 11: Typing Speed Test
+
+## Project 12: Alarm Clock
+
+## Project 13: Password Generator
+
+## Project 14: Path Finding
+
+## Project 15: Mastermind
+
+## Project 16: Currency Converter
+
+## Project 17: YouTube Video Downloader
+
+## Project 18: Auto File Backup
